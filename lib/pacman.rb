@@ -1,2 +1,2 @@
-class Pacman
+class Pacman < Struct.new(:direction)
 end
